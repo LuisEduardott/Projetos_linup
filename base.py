@@ -1,3 +1,3 @@
 
-for i in range(1000):
-    print("Joao boboca")
+for i in range(10):
+    print("Joao legalzinho like like")
